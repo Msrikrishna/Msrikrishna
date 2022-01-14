@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sri
 - 👀 I’m interested in Robotics, 3D-printing, Machine-learning and algorithmic trading software
 - 🌱 I’m currently learning high-frequency-trading essentials along with Data structures and algorithms
-- 💞️ I’m looking to collaborate on designing and testing algorithmic trading software for crypto broker Binance using their well documented API
+- 💞️ I’m looking to collaborate on designing and testing algorithmic trading software
 - 📫 Drop a email at srikrishna410@gmail.com or comment on my projects to reach out
 
 <!---
